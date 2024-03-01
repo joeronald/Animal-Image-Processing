@@ -1,2 +1,2 @@
 # Animal-Image-Processing
-Classifying Animal images 
+Classifying Animal images using CNN Algorithm
